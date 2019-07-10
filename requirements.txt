@@ -1,0 +1,11 @@
+Python版本：python 3.7.1
+
+依赖包：
+scikit-learn 0.20.1
+scipy 1.2.1
+numpy 1.16.3
+lightgbm 2.2.3
+catboost 0.14.2
+xgboost 0.82
+gensim 3.7.2
+jieba 0.39
